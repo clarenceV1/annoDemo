@@ -5,9 +5,11 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 import com.example.Bind;
+import com.example.JPHelloWorld;
 
 import anno.meetyou.com.annoapi.ViewInjector;
 
+@JPHelloWorld
 public class MainActivity extends AppCompatActivity {
     @Bind(R.id.textView2)
     TextView textView2;
