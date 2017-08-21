@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_d083d642e533419437b6d0dc183155edcc3e4d55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/annotations/build/libs/annotations.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62b96f5c6f3a6c931c55db58bae082d1c6340c15">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/annotations_26e251ca3fd979703249f8e88b81b9d7a9ef6099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_314eb8436698c6e3db2f3e76d2a44986c8badf73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_a4c5a0e03856ccbf572d5ff84e19cc4c33ac483f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_e536db36cc9fc89e676d2cd77c85aeb056bc48c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/AnnoPro/annoapi/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="987a9f0cdb23a7350a49c09a9929fb4fa60b1439">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/AnnoPro-annoapi-unspecified_48b93851cf9c43ba1821490fd7415b3fd522bcc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_d9e1e6a9fa6b09ac9b98a556003de01230498903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_3ec4e6718ba68c5c913d90c4b001e53da8acc752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_bb6302fe05f1a15b815f7f12f58dd6d4f9502cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_0151be7a843ff625705a9c1e49cc7f4456d3817b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_ca7ee28a9e45a3df0a2150c94293e6c855303dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clarence/AnnoPro/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/clarence/AnnoPro/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_395221a5a7af07793672c5390476cfbde03c3c4f.jar" />
+    </item>
+
+</items>
